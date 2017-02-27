@@ -1,6 +1,9 @@
 First attempt developing system on laravel. Sales system that manages the stock and can generate report.
 
-## Import database file name testsystem (database).sql
+## << Import database file name testsystem (database).sql >>
+username : admin
+company : admin
+password : admin
 
 ## Laravel PHP Framework
 
