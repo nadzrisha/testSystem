@@ -1,3 +1,7 @@
+First attempt developing system on laravel. Sales system that manages the stock and can generate report.
+
+## Import database file name testsystem (database).sql
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
